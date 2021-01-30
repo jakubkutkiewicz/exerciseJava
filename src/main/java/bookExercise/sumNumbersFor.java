@@ -1,6 +1,8 @@
 package bookExercise;
 
-public class sumNumbers {
+public class sumNumbersFor {
+
+    //for loop
     public static void main(String[] args) {
         int i ;
         int sum = 0;

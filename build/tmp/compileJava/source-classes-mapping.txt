@@ -1,4 +1,6 @@
 bookExercise/naturalNumber.java
  bookExercise.naturalNumber
-bookExercise/sumNumbers.java
- bookExercise.sumNumbers
+bookExercise/sumNumbersFor.java
+ bookExercise.sumNumbersFor
+bookExercise/sumNumberWhile.java
+ bookExercise.sumNumberWhile
